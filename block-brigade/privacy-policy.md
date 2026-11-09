@@ -6,7 +6,7 @@ Block Brigade is a tower rescue puzzle game. No player account or login is requi
 
 ## Advertising
 
-The game integrates Google Mobile Ads (AdMob) and User Messaging Platform. Google may process IP addresses, device and advertising identifiers where permitted, device information, ad interactions and diagnostics to deliver and measure advertisements. Current preview builds use Google sample advertising IDs. See [Google Privacy Policy](https://policies.google.com/privacy) and [Google partner services information](https://policies.google.com/technologies/partner-sites).
+The game integrates Google Mobile Ads (AdMob) and User Messaging Platform. Google may process IP addresses, device and advertising identifiers where permitted, device information, ad interactions and diagnostics to deliver and measure advertisements. Development/debug builds use Google sample advertising IDs. Release builds, including Play testing releases, use the configured publisher advertising IDs. See [Google Privacy Policy](https://policies.google.com/privacy) and [Google partner services information](https://policies.google.com/technologies/partner-sites).
 
 Where required and available, Google's consent form provides advertising choices. A privacy options control appears in Settings when Google requires it. Acknowledging this policy does not grant advertising consent or notification permission.
 
