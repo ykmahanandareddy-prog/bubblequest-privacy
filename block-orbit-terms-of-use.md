@@ -71,7 +71,7 @@ An optional rewarded advertisement may let a player continue the same board by f
 
 ## 7. Characters and Colors
 
-The five character colors identify which blocks a character can clear. Remaining ammunition and available return slots affect gameplay. Characters are game elements and do not represent real weapons or monetary assets.
+The seven character colors identify which blocks a character can clear. Remaining ammunition and available return slots affect gameplay. Characters are game elements and do not represent real weapons or monetary assets.
 
 ## 8. Levels and Gameplay Progress
 
