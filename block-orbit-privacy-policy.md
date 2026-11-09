@@ -9,21 +9,20 @@ This policy explains what information the game does and does not handle.
 
 ## The game itself collects nothing
 
-Block Orbit has no user accounts, no sign-up, no login, and no server
-operated by the developer. The game does not ask for your name, email,
+Block Orbit has no user accounts, no sign-up, no login, and no
+server operated by the developer. The game does not ask for your name, email,
 phone number, contacts, photos, camera, microphone, or location.
 
-Your game progress, board state, settings and preferences are stored only
-on your own device, in the game's local save file. That information never
-leaves your device and is deleted when you uninstall the game or clear its
-data.
+Your game progress, board state, settings and preferences are stored only on
+your own device, in the game's local save file. That information never leaves
+your device and is deleted when you uninstall the game or clear its data.
 
 ## Advertising (Google AdMob)
 
-The game shows ads provided by Google AdMob (interstitial ads between
-levels and optional rewarded ads that you choose to watch). To load and
-measure ads, the Google Mobile Ads SDK and Google's User Messaging
-Platform (consent) may process:
+The game shows interstitial ads between levels and optional rewarded ads
+provided by Google AdMob. To load and measure ads, the
+Google Mobile Ads SDK and Google's User Messaging Platform (consent) may
+process:
 
 - IP address (used for approximate, coarse location)
 - Device information (model, operating system, language)
@@ -39,31 +38,31 @@ This processing is done by Google as described in Google's own policies:
 
 Where required, the game asks for your consent through Google's consent
 message before requesting ads, and provides a privacy options entry in the
-game's settings (Settings → Reminders & privacy) so you can change that
-choice. Ads are configured with a maximum content rating of G.
-
-## Reminders (local notifications)
-
-The game can show an optional reminder notification if you have not played
-for a while. Reminders are off unless you turn them on in the game's
-settings and grant Android's notification permission. They are scheduled
-locally on your own device — no server or push service is involved and no
-information leaves your device. You can turn reminders off at any time in
-Settings → Reminders & privacy or in Android's notification settings.
-
-## Sharing
-
-The game offers native Android sharing (for example, sharing your progress
-as text) only when you tap the share button and choose where to send it.
-The developer does not sell personal data and does not share data with
-anyone other than the Google advertising services described above, which
-the game needs in order to show ads.
+game's settings so you can change that choice. Ads are configured with a
+maximum content rating of G.
 
 ## Children
 
 The game is not directed at children under 13. It is a general-audience
-puzzle game and does not knowingly collect personal information from
-anyone, including children.
+puzzle game and does not knowingly collect personal information from anyone,
+including children.
+
+## Reminders (local notifications)
+
+Reminders are optional and scheduled locally on your device. They are off
+unless you enable them and grant Android notification permission. No server
+or push service is involved. You can turn reminders off in Settings →
+Reminders & privacy or in Android notification settings.
+
+## Sharing
+
+The game opens the Android share chooser only when you tap Share. You
+choose the receiving app; its own privacy policy applies to information
+you choose to send.
+
+The developer does not sell personal data and does not share data with
+anyone other than the Google advertising services described above, which the
+game needs in order to show ads.
 
 ## Your choices
 
