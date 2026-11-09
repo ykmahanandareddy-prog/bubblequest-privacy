@@ -13,13 +13,13 @@ Include your device model, Android version, game version, level number and a des
 
 ## Advertising and rewarded continues
 
-If an ad fails, closes unexpectedly or a completed rewarded ad does not free a slot, describe what happened and the approximate time. Advertising availability depends on connectivity, inventory and consent. Do not tap an advertisement just to test it.
+If an ad fails, closes unexpectedly or a completed rewarded ad does not grant extra shots and clear the lowest rows, describe what happened and the approximate time. Advertising availability depends on connectivity, inventory and consent. Do not tap an advertisement just to test it.
 
 ## Privacy requests
 
 For questions about advertising consent or personal information, email **whyzomd@gmail.com** with the subject **Bubble Shooter — Privacy Request**. Depending on applicable law, you may request access, correction or deletion of information controlled by the developer.
 
-See our [Privacy Policy](bubble-shooter-privacy-policy.md) and [Terms of Use](bubble-shooter-terms-of-use.md). In the game, go to **Settings → Reminders & privacy → Privacy & choices**. Manage privacy choices appears when Google's consent SDK requires it.
+See our [Privacy Policy](bubble-shooter-privacy-policy.md) and [Terms of Use](bubble-shooter-terms-of-use.md). In the game, go to **Settings → Privacy & choices**. Manage privacy choices appears when Google's consent SDK requires it.
 
 ## Local progress and reminders
 
