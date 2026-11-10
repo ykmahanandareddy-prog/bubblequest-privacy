@@ -67,7 +67,7 @@ Advertising-related personal information is addressed in our Privacy Policy.
 
 ## 6. Rewarded Continues
 
-An optional rewarded ad can grant eight additional shots and clear the lowest two occupied rows on the same board, once per attempt. The continuation is granted only after the SDK confirms the earned reward. Closing an ad before that event grants no continuation. Availability depends on connectivity, consent and inventory. Retry remains free. Progress, scores and continuations have no cash value and cannot be sold or transferred.
+After a loss, completing an available rewarded ad can grant eight additional shots and clear the lowest two occupied rows on the same board. If the player loses again, another rewarded continuation may be offered. The continuation is granted only after the SDK confirms the earned reward. Closing an ad before that event grants no continuation. Availability depends on connectivity, consent and inventory. There is no Retry action. Returning Home preserves the unfinished attempt, and returning to that failed level shows the continuation offer again. Progress, scores and continuations have no cash value and cannot be sold or transferred.
 
 ## 7. Bubbles and Colors
 
