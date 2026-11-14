@@ -1,6 +1,6 @@
 # Bubble Shooter — Contact Support
 
-**Application:** Bubble Shooter (com.ykmahanand.bubbleshooter.dev)  
+**Application:** Bubble Shooter (com.ykmahanand.bubbleshooter)  
 **Developer/Publisher:** Mahananda Reddy Yedamakanti · MD (Independent Developer)  
 **Platform:** Android  
 **Support email:** [whyzomd@gmail.com](mailto:whyzomd@gmail.com)
@@ -13,7 +13,7 @@ Include your device model, Android version, game version, level number and a des
 
 ## Advertising and rewarded continues
 
-If an ad fails, closes unexpectedly or a completed rewarded ad does not grant extra shots and clear the lowest rows, describe what happened and the approximate time. Advertising availability depends on connectivity, inventory and consent. Do not tap an advertisement just to test it.
+If an ad fails, closes unexpectedly or a completed rewarded ad does not unlock the Continue or Restart choice, describe what happened and the approximate time. Advertising availability depends on connectivity, inventory and consent. Do not tap an advertisement just to test it.
 
 ## Privacy requests
 

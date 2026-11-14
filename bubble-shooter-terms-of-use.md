@@ -67,7 +67,9 @@ Advertising-related personal information is addressed in our Privacy Policy.
 
 ## 6. Rewarded Continues
 
-After a loss, completing an available rewarded ad can grant eight additional shots and clear the lowest two occupied rows on the same board. If the player loses again, another rewarded continuation may be offered. The continuation is granted only after the SDK confirms the earned reward. Closing an ad before that event grants no continuation. Availability depends on connectivity, consent and inventory. There is no Retry action. Returning Home preserves the unfinished attempt, and returning to that failed level shows the continuation offer again. Progress, scores and continuations have no cash value and cannot be sold or transferred.
+After a loss, completing an available rewarded ad unlocks a choice: Continue adds eight shots and clears the lowest two occupied rows while retaining the attempt score; Restart begins the same original level with full shots and zero attempt score. The choice is granted only after the SDK confirms the earned reward. Closing an ad before that event grants neither choice. Availability depends on connectivity, consent and inventory. If the player loses again, another rewarded ad may be offered. Watching an ad never unlocks the next level; the player must win the current level.
+
+There is no Retry action in the failed-attempt menu. Returning Home or minimizing within the same running session preserves the attempt. A fresh app session restarts the same unfinished level, even after a loss. An earned, unconsumed ad choice is retained across sessions. Completing a rewarded ad resets the automatic-ad counter; two further first-time level wins schedule the next interstitial opportunity. Progress, scores and ad rewards have no cash value and cannot be sold or transferred.
 
 ## 7. Bubbles and Colors
 

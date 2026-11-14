@@ -3,7 +3,7 @@
 Effective date: November 9, 2026
 Developer: Mahananda Reddy Yedamakanti
 Contact: whyzomd@gmail.com
-App: Bubble Shooter (package com.ykmahanand.bubbleshooter.dev), Android
+App: Bubble Shooter (package com.ykmahanand.bubbleshooter), Android
 
 This policy explains what information the game does and does not handle.
 
@@ -19,8 +19,7 @@ your device and is deleted when you uninstall the game or clear its data.
 
 ## Advertising (Google AdMob)
 
-The game offers interstitial ads after every two first-time level completions and optional rewarded ads
-provided by Google AdMob. To load and measure ads, the
+The game offers interstitial ads after two first-time level completions and optional rewarded ads provided by Google AdMob. Completing a rewarded ad resets the interstitial counter; two further first-time wins schedule the next interstitial. To load and measure ads, the
 Google Mobile Ads SDK and Google's User Messaging Platform (consent) may
 process:
 
@@ -83,4 +82,4 @@ Questions about this policy: whyzomd@gmail.com
 
 ## Development builds
 
-The current development build uses Google's sample ad identifiers. The package above identifies that development build; this policy will be updated if a production package is introduced. The welcome acknowledgement is separate from Google's advertising consent choice and from optional Android notification permission.
+The package above identifies the production app, which uses production Google AdMob identifiers. Development and QA builds use Google's sample ad identifiers. The welcome acknowledgement is separate from Google's advertising consent choice and from optional Android notification permission.
